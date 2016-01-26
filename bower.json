@@ -1,10 +1,12 @@
 {
-  "name": "lajku",
+  "name": "ssc-likecounter",
   "authors": [
     "Jan Kondratowicz <jan@kondratowicz.pl>"
   ],
   "dependencies": {
-    "bootstrap": "~3.3.6"
+    "bootstrap": "latest",
+    "angular": "~1.4.9",
+    "async": "latest"
   },
   "license": "MIT",
   "ignore": [

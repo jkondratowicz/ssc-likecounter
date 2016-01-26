@@ -1,12 +1,11 @@
 {
-  "name": "lajku",
+  "name": "ssc-likecounter",
   "private": true,
   "dependencies": {
     "express": "latest",
     "ejs": "~2.3.3",
     "request": "latest",
-    "cheerio": "latest",
-    "async": "latest"
+    "cheerio": "latest"
   },
   "scripts": {
     "start": "node ./bin/www"
