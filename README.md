@@ -1,0 +1,1 @@
+#  Zlicza lajki w vondq  #

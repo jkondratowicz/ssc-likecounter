@@ -1,0 +1,15 @@
+{
+  "name": "lajku",
+  "authors": [
+    "Jan Kondratowicz <jan@kondratowicz.pl>"
+  ],
+  "dependencies": {
+    "bootstrap": "~3.3.6"
+  },
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "public/vendor",
+    "node_modules"
+  ]
+}
